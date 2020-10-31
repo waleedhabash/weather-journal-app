@@ -15,8 +15,9 @@ inputs.forEach(input => {
 });
 
 /* Global Variables */
-let baseURL = 'http://api.openweathermap.org/data/2.5/weather?zip='
-let apiKey = '955dc70a311402292b232a508b99db7f';
+const  baseURL = 'http://api.openweathermap.org/data/2.5/weather?zip='
+const  apiKey = '&appid=955dc70a311402292b232a508b99db7f';
+const  unitView = '&units=metric';
 
 // Create a new date instance dynamically with JS
 let d = new Date();
@@ -43,7 +44,7 @@ function performAction(e) {
 /* Function to GET Web API Data*/
 const getWeather = async (baseURL, newZip, apiKey) => {
 	// respond the fatching data from the url with api
-	const res = await fetch(baseURL + newZip + '&appid=' + apiKey);
+	const res = await fetch(baseURL + newZip  + apiKey + unitView);
 	try {
 		// return farching data
 		const userData = await res.json();
