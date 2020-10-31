@@ -1,4 +1,4 @@
-# Weather Journal App :weather:
+# Weather Journal App :umbrela:
 
 ## Project 3 - Weather Journal App (Front End Developer Udacity Nanodegree)
 #### What I used: HTML, CSS, Javascript (Vanilla)
