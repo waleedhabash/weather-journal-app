@@ -1,12 +1,12 @@
-# Weather Journal App :umbrella:
+# Weather Journal App :rainbow:
 
-## Project 3 - Weather Journal App (Front End Developer Udacity Nanodegree)
-#### What I used: HTML, CSS, Javascript (Vanilla)
+# Project 2 - Weather Journal App 
+# used: HTML, CSS, Javascript 
 
 
 ### Project Objective
 
-This project was about working with Web APIs and asynchronous code, creating a web app that uses OpenWeatherMap API to get weather based on user's location, and dynamically update UI.
+This project was about working with Web APIs and asynchronous code, creating a web app that uses OpenWeatherMap API to get weather based on typing zip code, and dynamically update UI.
 
 ### Building
 To get the project up and running I followed these steps:
@@ -18,5 +18,4 @@ To get the project up and running I followed these steps:
 1. Set up a function that updated UI dynamically.
 
 
-### Result 
-![About Page](https://github.com/tem-nik/Project-Previews/blob/master/Weather-Journal-App-About.png)
+
