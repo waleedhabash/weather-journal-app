@@ -1,7 +1,7 @@
 # Weather Journal App :rainbow:
 
-# Project 2 - Weather Journal App 
-# used: HTML, CSS, Javascript 
+## Project 2 - Weather Journal App 
+### used: HTML, CSS, Javascript 
 
 
 ### Project Objective
